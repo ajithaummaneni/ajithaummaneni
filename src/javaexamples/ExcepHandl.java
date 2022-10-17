@@ -1,5 +1,5 @@
 package javaexamples;
-
+//comitted by ajitha
 public class ExcepHandl
 {
 	
